@@ -1,0 +1,10 @@
+interface = "ens18";
+update_time = 15;
+stdout_update_time = 1000;
+
+filters = (
+    {
+        enabled = true,
+        action = 1
+    }
+);
